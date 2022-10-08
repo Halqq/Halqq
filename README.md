@@ -6,7 +6,7 @@
 [![Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)]()
 
 ### About me
-I started programming 1 year ago, I'm an average java programmer and I'm currently learning kotlin
+I started programming 1 year ago, I love encryption, decryption and technology
 
 ### Skills
 
