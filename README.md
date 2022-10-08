@@ -1,4 +1,4 @@
-### Hi! I am Halqq, 
+### Hi! I am Halqq! 
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 )](https://discord.com/users/902361860471390248)
