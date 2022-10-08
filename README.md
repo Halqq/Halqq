@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi! I am Halqq, 
 
-<!--
-**Halqq/Halqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
+)](https://discord.com/users/902361860471390248)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCCuUwk8v1CY-Ky50govD2Xw)
+[![Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)]()
 
-Here are some ideas to get you started:
+### About me
+I started programming 1 year ago, I'm an average java programmer and I'm currently learning kotlin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+> Java
+
+> Java Security
+
+> Java Crypto
+
+> System Administration
+
+> Kotlin(learning)
+
+### Stats
+
+![Halqq GitHub stats](https://github-readme-stats.vercel.app/api?username=Halqq&show_icons=true&theme=tokyonight)
+
