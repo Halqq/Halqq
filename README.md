@@ -20,7 +20,7 @@ I started programming 1 year ago, I love technology and games!
 
 > System Administration
 
-> Kotlin(learning)
+> Kotlin
 
 ### Stats
 
