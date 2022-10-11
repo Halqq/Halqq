@@ -25,4 +25,6 @@ I started programming 1 year ago, I love technology and games!
 ### Stats
 
 ![Halqq GitHub stats](https://github-readme-stats.vercel.app/api?username=Halqq&show_icons=true&theme=tokyonight)
+[![Halqq Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Halqq&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
