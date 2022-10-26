@@ -24,6 +24,8 @@ I started programming 1 year ago, I love technology and games!
 
 > Scala
 
+>C++ (learning)
+
 ### Stats
 
 ![Halqq GitHub stats](https://github-readme-stats.vercel.app/api?username=Halqq&show_icons=true&theme=tokyonight)
