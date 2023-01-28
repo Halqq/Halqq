@@ -13,18 +13,16 @@ I started programming 1 year ago, I love technology and games!
 ### Skills
 
 > Java
-
 > Java Security
-
 > Java Crypto
-
 > System Administration
-
 > Kotlin
-
 > Scala
-
 >C++ (learning)
+> Html
+> CSS
+> JavaScript
+> MySql
 
 ### Stats
 
