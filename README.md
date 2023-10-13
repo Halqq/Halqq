@@ -13,12 +13,12 @@ I started programming 2 years ago, I love technology and games!
 ### Skills
 
 > Java  
-> Java Security  
-> Java Crypto  
 > System Administration  
 > Kotlin  
 > Scala  
->C++ (learning)  
+> C++
+> C#
+> C
 > Html  
 > CSS  
 > JavaScript  
