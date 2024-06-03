@@ -10,7 +10,6 @@ I started programming 2 years ago, I love technology and games!
 ### Skills
 
 > Java  
-> System Administration  
 > Kotlin  
 > Scala  
 > C++
