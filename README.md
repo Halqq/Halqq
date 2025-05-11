@@ -15,6 +15,6 @@ I started programming 3 years ago, I love technology and games!
 > C#
 > Html  
 > CSS    
-> Python
-> Graphics Design
-> Gpu Operations
+> Python  
+> Graphics Design  
+> Gpu Operations  
