@@ -17,3 +17,4 @@ I started programming 4 years ago, I love technology and games!
 > Python  
 > Graphics Design  
 > Gpu Operations  
+> JavaScript (Typescript and Nodejs) 
