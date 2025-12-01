@@ -5,7 +5,7 @@
 ### About me
 ![](https://komarev.com/ghpvc/?username=Halqq&color=green)
 
-I started programming 4 years ago, I love technology and games!
+I started programming 6 years ago, I love technology and games!
 
 ### Skills
 
